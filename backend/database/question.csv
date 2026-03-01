@@ -1,0 +1,41 @@
+id,question_text,option1,option2,option3,option4,correct_option,category,difficulty
+1,"Which keyword is used to inherit a class in Java?",implements,interface,extends,import,3,Java,Easy
+2,"Which method is the entry point of Java program?",start(),main(),run(),init(),2,Java,Easy
+3,"Which collection does not allow duplicates?",List,ArrayList,HashSet,Vector,3,Java,Medium
+4,"Which data type is used to store decimal values?",int,double,char,boolean,2,Java,Easy
+5,"Which company developed Java?",Microsoft,Apple,"Sun Microsystems",Google,3,Java,Easy
+6,"Which interface is implemented by ArrayList?",List,Set,Map,Queue,1,Java,Medium
+7,"Which exception occurs when dividing by zero?",IOException,ArithmeticException,NullPointerException,ClassNotFoundException,2,Java,Medium
+8,"Which keyword prevents inheritance?",static,abstract,final,private,3,Java,Medium
+9,"Which loop executes at least once?",for,while,do-while,foreach,3,Java,Easy
+10,"Spring Boot is mainly used for?","Game development","Web development","Mobile apps","OS development",2,Spring,Easy
+11,"Which annotation marks a Spring Boot application?",@Controller,@Service,@SpringBootApplication,@Component,3,Spring,Medium
+12,"Which database is commonly used with Spring Boot?",MongoDB,MySQL,Firebase,SQLite,2,Spring,Easy
+13,"Which dependency is required for Spring Security?",spring-boot-starter-data-jpa,spring-boot-starter-web,spring-boot-starter-security,spring-boot-devtools,3,Spring,Medium
+14,"Which protocol is secure?",HTTP,FTP,SMTP,HTTPS,4,Web,Easy
+15,"Which HTML tag is used for links?",<a>,<link>,<href>,<url>,1,Web,Easy
+16,"CSS stands for?","Computer Style Sheet","Cascading Style Sheet","Creative Style System","Colorful Style Sheet",2,Web,Easy
+17,"Which HTTP method is used to create data?",GET,POST,DELETE,PUT,2,Web,Medium
+18,"Which MySQL command retrieves data?",INSERT,SELECT,UPDATE,DELETE,2,Database,Easy
+19,"Which constraint ensures uniqueness?","NOT NULL",UNIQUE,"PRIMARY KEY",DEFAULT,3,Database,Medium
+20,"Which join returns matching records only?","LEFT JOIN","RIGHT JOIN","INNER JOIN","FULL JOIN",3,Database,Medium
+21,"Which keyword creates a class in Java?",class,define,struct,object,1,Java,Easy
+22,"Which operator compares values?",=,=,==,===,3,Java,Easy
+23,"Which data structure follows FIFO?",Stack,Queue,Tree,Graph,2,DSA,Easy
+24,"Which data structure follows LIFO?",Queue,Stack,Array,LinkedList,2,DSA,Easy
+25,"Which sorting algorithm is fastest on average?","Bubble Sort","Selection Sort","Quick Sort","Insertion Sort",3,DSA,Medium
+26,"Which keyword handles exceptions?",throw,catch,try,finally,3,Java,Medium
+27,"Which annotation is used for REST controller?",@Controller,@RestController,@Component,@Bean,2,Spring,Medium
+28,"Which SQL command deletes table?",DROP,REMOVE,DELETE,CLEAR,1,Database,Easy
+29,"Which function returns string length in Java?",size(),length(),len(),count(),2,Java,Easy
+30,"Which port does Spring Boot run by default?",3306,8080,443,9090,2,Spring,Medium
+31,"Maximum value for byte in java?",100,127,255,999,2,Java,Easy
+32,"Which keyword is used to inherit a class in Java?",implements,inherits,extends,instanceof,3,Java,Easy
+33,"Which method is the entry point of a Java application?",start(),run(),main(),init(),3,Java,Easy
+34,"Which data structure follows LIFO principle?",Queue,Stack,Array,LinkedList,2,"Data Structures",Easy
+35,"What is the time complexity of binary search?",O(n),"O(log n)","O(n log n)",O(1),2,Algorithms,Easy
+36,"Which collection does not allow duplicate elements in Java?",ArrayList,Vector,Set,LinkedList,3,Java,Medium
+37,"Which HTTP method is used to retrieve data from a server?",POST,PUT,GET,DELETE,3,Web,Easy
+38,"Which keyword is used to define a constant in Java?",static,final,const,immutable,2,Java,Medium
+39,"Which sorting algorithm is based on divide and conquer?","Bubble Sort","Insertion Sort","Merge Sort","Selection Sort",3,Algorithms,Medium
+40,"What is the default value of a boolean variable in Java?",true,false,0,null,2,Java,Easy
